@@ -22,7 +22,8 @@ Designed to be **fast**, **minimal**, and **pleasant to use** — right inside y
 
 ---
 ## 📸 Screenshots
-
+### **Screenshots of Extention**
+![UI](screenshots/mainUi.png)
 
 ---
 
